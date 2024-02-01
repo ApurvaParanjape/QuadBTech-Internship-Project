@@ -1,7 +1,7 @@
 This project is a movie/show viewing website where users can see details of multiple movies and shows and also book tickets of the same.
 This project is built using react js,react router and bootstrap
 
-Output:
+
 ![mobile](https://github.com/ApurvaParanjape/QuadBTech-Internship-Project/assets/115811962/4f4a4687-08a7-42ba-a1ad-1c4f22da284b)
 
 
